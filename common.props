@@ -1,0 +1,13 @@
+<Project>
+  <Import Project="version.props" />
+  <PropertyGroup>
+    <Product></Product>
+    <Copyright></Copyright>
+    <Authors>vildar82</Authors>
+    <PackageIconUrl></PackageIconUrl>
+    <PackageProjectUrl>https://github.com/vildar82/TestDevOps</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/vildar82/TestDevOps/master/LICENSE</PackageLicenseUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/vildar82/TestDevOps</RepositoryUrl>
+  </PropertyGroup>
+</Project>
